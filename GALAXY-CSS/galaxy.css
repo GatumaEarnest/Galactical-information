@@ -3,9 +3,14 @@
 .menu{
        }
 .Heading{color: rgb(250,235,215);
+         font-size: 48px;
+         font-weight: bold;
          background-image: url(Nebulae.jpg);
 
           }
+          .Digits{font-style: italic; color:rgb(212,175,55);
+
+                  }
 img{float:none;
   }
   .intro{
@@ -15,6 +20,10 @@ img{float:none;
 
     }
  .config{border: 2px solid blue;
+        font-weight:lighter;
+        font-size: 45px;
+        color: rgb(171,39,79);
+        background-image: url(TExtbar-1.jpeg);
          padding:6px;
          margin:20px;
          background-color: rgb(238,238,238);
