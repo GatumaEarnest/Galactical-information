@@ -7,7 +7,7 @@ This web-page is an informative site which highlights on how galaxies can be ide
 #### By **{Wikihow.com, Google}**
 ## Description. }
 ## Setup/Installation Requirements
-{It's a basic page, and very concise.The referral links are of accurate and relaevant info.}
+{It's a basic page, and very concise.The referral links are of accurate and relevant info.}
 * to list setup instructions
 * in a simple
 * easy-to-understand
